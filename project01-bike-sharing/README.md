@@ -42,7 +42,8 @@ project01-bike-sharing/
     ├── 01_data_understanding.ipynb
     ├── 02_eda.ipynb
     ├── 03_preprocessing.ipynb
-    └── 04_feature_engineering.ipynb
+    ├── 04_feature_engineering.ipynb
+    └── 05_time_series_analysis.ipynb
 ```
 
 ---
@@ -57,7 +58,8 @@ Eksperimen berjalan secara berurutan dan terdokumentasi lengkap pada [Experiment
 | **EXP-002** | Exploratory Data Analysis | `02_eda.ipynb` | ✅ Completed | Visualisasi pola musiman, jam, dan cuaca |
 | **EXP-003** | Data Cleaning | `03_preprocessing.ipynb` | ✅ Completed | `processed_data.csv` siap pakai |
 | **EXP-004** | Feature Engineering | `04_feature_engineering.ipynb` | ✅ Completed | `featured_data.csv` (Lag, Cyclic, Interaction) |
-| **EXP-005** | Time Series Diagnostics | `05_time_series_analysis.ipynb` | ⬜ Not Started | *Berikutnya* |
+| **EXP-005** | Time Series Diagnostics | `05_time_series_analysis.ipynb` | ✅ Completed | Karakteristik time series dianalisis (ADF, ACF/PACF, Decomp) |
+| **EXP-006** | Baseline Forecasting | `06_baseline_model.ipynb` | ⬜ Not Started | *Berikutnya* |
 
 ---
 
