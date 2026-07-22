@@ -60,14 +60,14 @@ Seluruh model wajib menggunakan dataset dan proses preprocessing yang sama agar 
 
 | ID | Model | Notebook | Status |
 |----|--------|----------|--------|
-| M-001 | Naive Forecast | 06_baseline_model.ipynb | ⬜ |
-| M-002 | Moving Average | 06_baseline_model.ipynb | ⬜ |
-| M-003 | Linear Regression | 07_linear_regression.ipynb | ⬜ |
-| M-004 | Decision Tree | 08_decision_tree.ipynb | ⬜ |
-| M-005 | Random Forest | 09_random_forest.ipynb | ⬜ |
-| M-006 | Gradient Boosting | 10_gradient_boosting.ipynb | ⬜ |
-| M-007 | XGBoost | 11_xgboost.ipynb | ⬜ |
-| M-008 | Tuned Best Model | 12_hyperparameter_tuning.ipynb | ⬜ |
+| M-001 | Naive Forecast | 06_baseline_model.ipynb | ✅ |
+| M-002 | Moving Average | 06_baseline_model.ipynb | ✅ |
+| M-003 | Linear Regression | 07_linear_regression.ipynb | ✅ |
+| M-004 | Decision Tree | 08_decision_tree.ipynb | ✅ |
+| M-005 | Random Forest | 09_random_forest.ipynb | ✅ |
+| M-006 | Gradient Boosting | 10_gradient_boosting.ipynb | ✅ |
+| M-007 | XGBoost | 11_xgboost.ipynb | ✅ |
+| M-008 | Tuned Best Model | 12_hyperparameter_tuning.ipynb | ✅ |
 
 ---
 
