@@ -167,21 +167,21 @@ Setiap eksperimen hanya dapat dimulai apabila eksperimen sebelumnya telah selesa
 
 | ID | Nama Eksperimen | Notebook | Status |
 |----|-----------------|----------|--------|
-| EXP-001 | Data Understanding | 01_data_understanding.ipynb | ⬜ |
-| EXP-002 | Exploratory Data Analysis | 02_eda.ipynb | ⬜ |
-| EXP-003 | Data Cleaning | 03_preprocessing.ipynb | ⬜ |
-| EXP-004 | Feature Engineering | 04_feature_engineering.ipynb | ⬜ |
-| EXP-005 | Time Series Analysis | 05_time_series_analysis.ipynb | ⬜ |
-| EXP-006 | Baseline Forecasting | 06_baseline_model.ipynb | ⬜ |
-| EXP-007 | Linear Regression | 07_linear_regression.ipynb | ⬜ |
-| EXP-008 | Decision Tree | 08_decision_tree.ipynb | ⬜ |
-| EXP-009 | Random Forest | 09_random_forest.ipynb | ⬜ |
-| EXP-010 | Gradient Boosting | 10_gradient_boosting.ipynb | ⬜ |
-| EXP-011 | XGBoost | 11_xgboost.ipynb | ⬜ |
-| EXP-012 | Hyperparameter Tuning | 12_hyperparameter_tuning.ipynb | ⬜ |
-| EXP-013 | Model Evaluation | 13_evaluation.ipynb | ⬜ |
-| EXP-014 | Dashboard | 14_dashboard.ipynb | ⬜ |
-| EXP-015 | Final Documentation | - | ⬜ |
+| EXP-001 | Data Understanding | 01_data_understanding.ipynb | ✅ |
+| EXP-002 | Exploratory Data Analysis | 02_eda.ipynb | ✅ |
+| EXP-003 | Data Cleaning | 03_preprocessing.ipynb | ✅ |
+| EXP-004 | Feature Engineering | 04_feature_engineering.ipynb | ✅ |
+| EXP-005 | Time Series Analysis | 05_time_series_analysis.ipynb | ✅ |
+| EXP-006 | Baseline Forecasting | 06_baseline_model.ipynb | ✅ |
+| EXP-007 | Linear Regression | 07_linear_regression.ipynb | ✅ |
+| EXP-008 | Decision Tree | 08_decision_tree.ipynb | ✅ |
+| EXP-009 | Random Forest | 09_random_forest.ipynb | ✅ |
+| EXP-010 | Gradient Boosting | 10_gradient_boosting.ipynb | ✅ |
+| EXP-011 | XGBoost | 11_xgboost.ipynb | ✅ |
+| EXP-012 | Hyperparameter Tuning | 12_hyperparameter_tuning.ipynb | ✅ |
+| EXP-013 | Model Evaluation | 13_evaluation.ipynb | ✅ |
+| EXP-014 | Dashboard | 14_dashboard.ipynb | ✅ |
+| EXP-015 | Final Documentation | - | ✅ |
 
 ---
 
@@ -263,7 +263,7 @@ Dataset memiliki struktur yang lengkap, tidak terdapat missing value yang signif
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -382,7 +382,7 @@ Dataset memiliki pola musiman dan pola harian yang memengaruhi jumlah penyewaan 
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -449,7 +449,7 @@ processed_data.csv
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -517,7 +517,7 @@ featured_data.csv
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -632,7 +632,7 @@ Notebook Time Series Analysis
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -703,7 +703,7 @@ Notebook Baseline
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -777,7 +777,7 @@ linear_regression.pkl
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -841,7 +841,7 @@ decision_tree.pkl
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -905,7 +905,7 @@ random_forest.pkl
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -1019,7 +1019,7 @@ Informasi minimal meliputi.
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -1109,7 +1109,7 @@ xgboost.json
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -1194,7 +1194,7 @@ best_model.json
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -1283,7 +1283,7 @@ evaluation_report.csv
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -1357,7 +1357,7 @@ Dashboard Application
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
@@ -1423,7 +1423,7 @@ ForecastLab FL-001 Release v1.0
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
